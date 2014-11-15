@@ -1,12 +1,12 @@
 package basic_learning;
 
 public class ArrayExample {
-
+//git 
 	public static void main(String[] args) { 		
 		//We define and instantiate the int array object with size 3
 		int[] intArr = new int[3];
 		//We start populating individual array elements with values
-		intArr[0] = 32;
+		intArr[0] = 456;
 		intArr[1] = 54;
 		intArr[2] = 23;
 		

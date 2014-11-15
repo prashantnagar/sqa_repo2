@@ -3,7 +3,7 @@ package basic_learning;
 public class ComparisonOperators {
 	
 	public static void main(String args[]){
-		int a = 6;
+		int a = 7;
 		//int a;
 		// a = 6;
 		int b = 5;
